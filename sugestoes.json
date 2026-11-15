@@ -1,10 +1,98 @@
 {
-  "recolhido_em_utc": "2026-11-15T12:34:03.905442+00:00",
+  "recolhido_em_utc": "2026-11-15T13:40:14.695487+00:00",
   "nota": "Sugestões automáticas, não verificadas. Não publicar sem confirmar que o produto foi lançado.",
-  "sugestoes": [],
-  "erros": [
-    "Engadget: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
-    "The Verge: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
-    "TechCrunch: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
-  ]
+  "sugestoes": [
+    {
+      "titulo_original": "11 gadgets under $10 that solve everyday problems",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/",
+      "data_original": "Sun, 15 Nov 2026 00:15:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "There's a hidden way you can check which services are running on your Android phone",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
+      "data_original": "Sun, 15 Nov 2026 00:00:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "SpaceX successfully catches Starship after launch for the first time",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/",
+      "data_original": "Sat, 14 Nov 2026 20:54:14 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "data_original": "2026-11-13T19:06:40-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "A gadget to make your dumb house smarter",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "data_original": "2026-11-13T19:48:59-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "data_original": "Sat, 14 Nov 2026 18:00:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "data_original": "Sat, 14 Nov 2026 17:30:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+      "data_original": "Fri, 13 Nov 2026 23:00:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "data_original": "Fri, 13 Nov 2026 22:43:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "AI agent startup LangChain hits $3B valuation",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "data_original": "Fri, 13 Nov 2026 19:37:57 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "data_original": "Fri, 13 Nov 2026 18:40:30 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "data_original": "Fri, 13 Nov 2026 16:00:12 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "data_original": "Fri, 13 Nov 2026 14:44:48 +0000",
+      "estado": "POR VERIFICAR"
+    }
+  ],
+  "erros": []
 }

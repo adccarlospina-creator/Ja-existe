@@ -1,0 +1,21 @@
+JÁ EXISTE?! — VERSÃO COM DESCOBERTA AUTOMÁTICA
+
+O que já funciona:
+- index.html: site demonstrativo com cinco descobertas editoriais.
+- descobrir.py: recolhe manchetes e links de RSS e grava sugestoes.json.
+- .github/workflows/novidades.yml: tenta executar a recolha diariamente num repositório GitHub.
+
+O que NÃO faz:
+- Não confirma que um produto foi realmente lançado.
+- Não publica automaticamente as sugestões no site.
+- Não cria vídeos, não copia artigos e não obtém autorização para imagens.
+- Não coloca o site online por si só.
+
+Para começar com um computador ou navegador do telemóvel:
+1. Cria um repositório GitHub e carrega os ficheiros desta pasta (incluindo .github/workflows/novidades.yml).
+2. No separador Actions, ativa workflows e executa 'Descobrir novidades para revisão'.
+3. Abre sugestoes.json e verifica as fontes e datas.
+4. Escolhe apenas produtos REALMENTE lançados; confirma no fabricante e adiciona-os editorialmente ao catálogo do index.html.
+5. Publica o index.html com GitHub Pages (Settings > Pages). Verifica condições e limites dos serviços.
+
+Nota: A execução programada depende dos limites e regras do GitHub; pode sofrer atrasos ou ser desativada. RSS de terceiros podem mudar ou falhar.

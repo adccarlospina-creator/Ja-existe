@@ -1,0 +1,10 @@
+{
+  "recolhido_em_utc": "2026-11-15T12:34:03.905442+00:00",
+  "nota": "Sugestões automáticas, não verificadas. Não publicar sem confirmar que o produto foi lançado.",
+  "sugestoes": [],
+  "erros": [
+    "Engadget: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "The Verge: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+    "TechCrunch: URLError: <urlopen error [Errno -3] Temporary failure in name resolution>"
+  ]
+}

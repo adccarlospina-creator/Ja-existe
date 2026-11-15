@@ -1,7 +1,56 @@
 {
-  "recolhido_em_utc": "2026-11-15T13:40:14.695487+00:00",
-  "nota": "Sugestões automáticas, não verificadas. Não publicar sem confirmar que o produto foi lançado.",
+  "recolhido_em_utc": "2026-11-15T14:08:10.184874+00:00",
+  "nota": "Títulos e vídeos são pistas para revisão humana, não provas de lançamento. Nunca publicar sem confirmar a fonte oficial.",
   "sugestoes": [
+    {
+      "titulo_original": "O PC mais INSANO que já montei custa 25.000€!",
+      "fonte": "Nuno Agonia (YouTube)",
+      "url": "https://www.youtube.com/watch?v=p7qc7zP7roM",
+      "data_original": "2026-11-04T16:20:03+00:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Estes GADGETS quase se pagam SOZINHOS!",
+      "fonte": "Nuno Agonia (YouTube)",
+      "url": "https://www.youtube.com/watch?v=9ND_oGNPXN8",
+      "data_original": "2026-11-02T16:17:31+00:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Estes gadgets parecem ESTÚPIDOS… mas dão um jeitaço!",
+      "fonte": "Nuno Agonia (YouTube)",
+      "url": "https://www.youtube.com/watch?v=whaZIyAoJow",
+      "data_original": "2026-10-25T17:53:19+00:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "O PRIMEIRO SMARTPHONE COM 600MP! Isto parece mentira 😱",
+      "fonte": "Nuno Agonia (YouTube)",
+      "url": "https://www.youtube.com/watch?v=AruZnn-J0Hs",
+      "data_original": "2026-10-21T13:59:46+00:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Gadgets de 50€ que vais MESMO querer ter!",
+      "fonte": "Nuno Agonia (YouTube)",
+      "url": "https://www.youtube.com/watch?v=iYDhhJJUlX8",
+      "data_original": "2026-09-28T15:37:19+00:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Fui à nova loja ACTION em Portugal… e gastei MAIS do que devia! 😂",
+      "fonte": "Nuno Agonia (YouTube)",
+      "url": "https://www.youtube.com/watch?v=2uF3PBvaY0k",
+      "data_original": "2026-09-11T16:03:24+00:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "O UNBOXING MAIS DIFÍCIL QUE JÁ FIZ!",
+      "fonte": "Nuno Agonia (YouTube)",
+      "url": "https://www.youtube.com/watch?v=u2c4jMmV27A",
+      "data_original": "2026-09-02T13:26:14+00:00",
+      "estado": "POR VERIFICAR"
+    },
     {
       "titulo_original": "11 gadgets under $10 that solve everyday problems",
       "fonte": "Engadget",
@@ -10,38 +59,24 @@
       "estado": "POR VERIFICAR"
     },
     {
-      "titulo_original": "There's a hidden way you can check which services are running on your Android phone",
-      "fonte": "Engadget",
-      "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
-      "data_original": "Sun, 15 Nov 2026 00:00:00 +0000",
+      "titulo_original": "The Sony Aibo was a robot revolution dressed like a dog",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+      "data_original": "2026-11-15T08:57:30-05:00",
       "estado": "POR VERIFICAR"
     },
     {
-      "titulo_original": "SpaceX successfully catches Starship after launch for the first time",
-      "fonte": "Engadget",
-      "url": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/",
-      "data_original": "Sat, 14 Nov 2026 20:54:14 +0000",
+      "titulo_original": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "data_original": "2026-11-14T16:44:44-05:00",
       "estado": "POR VERIFICAR"
     },
     {
       "titulo_original": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
       "fonte": "The Verge",
       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "data_original": "2026-11-13T19:06:40-05:00",
-      "estado": "POR VERIFICAR"
-    },
-    {
-      "titulo_original": "A gadget to make your dumb house smarter",
-      "fonte": "The Verge",
-      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
-      "data_original": "2026-11-13T19:48:59-05:00",
-      "estado": "POR VERIFICAR"
-    },
-    {
-      "titulo_original": "Got an iPhone Duo? These 9 settings make it easier to use",
-      "fonte": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
-      "data_original": "Sat, 14 Nov 2026 18:00:00 +0000",
+      "data_original": "2026-11-14T10:00:00-05:00",
       "estado": "POR VERIFICAR"
     },
     {
@@ -91,6 +126,34 @@
       "fonte": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
       "data_original": "Fri, 13 Nov 2026 14:44:48 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "There's a hidden way you can check which services are running on your Android phone",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2313576/hidden-way-check-which-services-running-on-android-phone/",
+      "data_original": "Sun, 15 Nov 2026 00:00:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "SpaceX successfully catches Starship after launch for the first time",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/",
+      "data_original": "Sat, 14 Nov 2026 20:54:14 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "A gadget to make your dumb house smarter",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+      "data_original": "2026-11-13T19:48:59-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "data_original": "Sat, 14 Nov 2026 18:00:00 +0000",
       "estado": "POR VERIFICAR"
     }
   ],

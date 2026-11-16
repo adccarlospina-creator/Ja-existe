@@ -1,5 +1,5 @@
 {
-  "recolhido_em_utc": "2026-11-15T14:08:10.184874+00:00",
+  "recolhido_em_utc": "2026-11-16T10:19:05.072975+00:00",
   "nota": "Títulos e vídeos são pistas para revisão humana, não provas de lançamento. Nunca publicar sem confirmar a fonte oficial.",
   "sugestoes": [
     {
@@ -52,10 +52,59 @@
       "estado": "POR VERIFICAR"
     },
     {
-      "titulo_original": "11 gadgets under $10 that solve everyday problems",
+      "titulo_original": "Apple's new research app is designed to make AI health tools more user-friendly",
       "fonte": "Engadget",
-      "url": "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/",
-      "data_original": "Sun, 15 Nov 2026 00:15:00 +0000",
+      "url": "https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly/",
+      "data_original": "Mon, 16 Nov 2026 06:06:05 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "The oldest gadget in your house could be your home network's biggest security hole",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2314057/home-network-oldest-device-could-be-biggest-security-risk/",
+      "data_original": "Mon, 16 Nov 2026 01:00:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Why your Wi-Fi slows down when more devices connect",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2313934/wifi-slows-down-when-devices-connect/",
+      "data_original": "Sun, 15 Nov 2026 23:30:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "How long can a 1000 watt-hour power station run your devices?",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2313932/how-long-1000-watt-power-station-run-devices/",
+      "data_original": "Sun, 15 Nov 2026 23:00:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "You can control your other devices with this resourceful Apple feature",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2313890/apple-switch-control-feature-on-other-devices/",
+      "data_original": "Sun, 15 Nov 2026 20:45:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "data_original": "2026-11-15T20:26:56-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "data_original": "2026-11-15T14:15:43-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Apple’s first smart glasses are coming together",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together",
+      "data_original": "2026-11-15T11:59:16-05:00",
       "estado": "POR VERIFICAR"
     },
     {
@@ -66,17 +115,38 @@
       "estado": "POR VERIFICAR"
     },
     {
-      "titulo_original": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
-      "fonte": "The Verge",
-      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
-      "data_original": "2026-11-14T16:44:44-05:00",
+      "titulo_original": "Apple launches new app to study how people use AI for health",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "data_original": "Mon, 16 Nov 2026 01:30:00 +0000",
       "estado": "POR VERIFICAR"
     },
     {
-      "titulo_original": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
-      "fonte": "The Verge",
-      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "data_original": "2026-11-14T10:00:00-05:00",
+      "titulo_original": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "data_original": "Sun, 15 Nov 2026 23:30:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "data_original": "Sun, 15 Nov 2026 21:56:35 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+      "data_original": "Sun, 15 Nov 2026 18:29:14 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "The tech products we enthusiastically recommend this holiday season",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+      "data_original": "Sun, 15 Nov 2026 16:00:00 +0000",
       "estado": "POR VERIFICAR"
     },
     {
@@ -105,6 +175,27 @@
       "fonte": "TechCrunch",
       "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "data_original": "Fri, 13 Nov 2026 19:37:57 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "11 gadgets under $10 that solve everyday problems",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2310535/affordable-gadgets-under-10-dollars/",
+      "data_original": "Sun, 15 Nov 2026 00:15:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "data_original": "2026-11-14T16:44:44-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "data_original": "2026-11-14T10:00:00-05:00",
       "estado": "POR VERIFICAR"
     },
     {

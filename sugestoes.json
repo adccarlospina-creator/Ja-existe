@@ -1,5 +1,5 @@
 {
-  "recolhido_em_utc": "2026-11-16T10:19:05.072975+00:00",
+  "recolhido_em_utc": "2026-11-17T09:15:03.808212+00:00",
   "nota": "Títulos e vídeos são pistas para revisão humana, não provas de lançamento. Nunca publicar sem confirmar a fonte oficial.",
   "sugestoes": [
     {
@@ -49,6 +49,118 @@
       "fonte": "Nuno Agonia (YouTube)",
       "url": "https://www.youtube.com/watch?v=u2c4jMmV27A",
       "data_original": "2026-09-02T13:26:14+00:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Apple adds new disk controls to prevent AI agents from running amok",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2318790/apple-adds-new-disk-controls-to-prevent-ai-agents-from-running-amok/",
+      "data_original": "Tue, 17 Nov 2026 06:22:11 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Every Xbox console generation sorted by release date",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2314891/every-xbox-console-generation-sorted-release-date/",
+      "data_original": "Mon, 16 Nov 2026 21:00:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "California sues OpenAI after that Hugging Face rogue hacking incident",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2318268/california-sues-openai-after-hugging-face-rogue-hacking-incident/",
+      "data_original": "Mon, 16 Nov 2026 19:52:24 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "California sues OpenAI over rogue AI hacking incidents",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "data_original": "2026-11-16T15:46:01-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "data_original": "2026-11-16T14:50:47-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "data_original": "Mon, 16 Nov 2026 23:32:32 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+      "data_original": "Mon, 16 Nov 2026 21:01:02 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "California state AG sues OpenAI over rogue agent incidents",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "data_original": "Mon, 16 Nov 2026 20:07:13 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Island is a new screen-time app that turns staying off your phone into a game",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+      "data_original": "Mon, 16 Nov 2026 18:54:18 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "data_original": "Mon, 16 Nov 2026 17:36:43 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "data_original": "Mon, 16 Nov 2026 17:10:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "OpenAI will embed safety researchers to investigate AI subversion",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "data_original": "Mon, 16 Nov 2026 17:02:43 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "data_original": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+      "data_original": "Mon, 16 Nov 2026 16:06:30 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Audible turns to AI to help users discover audiobooks",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "data_original": "Mon, 16 Nov 2026 15:52:19 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "data_original": "Mon, 16 Nov 2026 15:02:34 +0000",
       "estado": "POR VERIFICAR"
     },
     {

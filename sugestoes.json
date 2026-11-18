@@ -1,5 +1,5 @@
 {
-  "recolhido_em_utc": "2026-11-17T09:15:03.808212+00:00",
+  "recolhido_em_utc": "2026-11-18T09:16:28.942524+00:00",
   "nota": "Títulos e vídeos são pistas para revisão humana, não provas de lançamento. Nunca publicar sem confirmar a fonte oficial.",
   "sugestoes": [
     {
@@ -49,6 +49,97 @@
       "fonte": "Nuno Agonia (YouTube)",
       "url": "https://www.youtube.com/watch?v=u2c4jMmV27A",
       "data_original": "2026-09-02T13:26:14+00:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "YouTube will start boosting public view counts when you watch on a TV",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2320163/youtube-will-start-boosting-public-view-counts-when-you-watch-on-a-tv/",
+      "data_original": "Wed, 18 Nov 2026 06:08:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Oregon is the latest state to sue OpenAI over child safety",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety/",
+      "data_original": "Tue, 17 Nov 2026 23:45:32 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Waymo is pausing all freeway rides after California DMV says the robotaxis are 'imminent hazard to public safety'",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2319947/waymo-is-pausing-all-freeway-rides-after-california-dmv-says-the-robotaxis-are-imminent-hazard-to-public-safety/",
+      "data_original": "Tue, 17 Nov 2026 21:57:49 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Google Wallet is launching on iOS",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2319673/google-wallet-is-launching-on-ios/",
+      "data_original": "Tue, 17 Nov 2026 19:33:27 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+      "data_original": "2026-11-17T17:38:41-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+      "data_original": "2026-11-17T17:25:41-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Nike’s new air sole technology can mix soft and firm cushioning",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
+      "data_original": "2026-11-17T16:38:08-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "data_original": "2026-11-17T16:00:55-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "data_original": "Wed, 18 Nov 2026 01:44:21 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "data_original": "Tue, 17 Nov 2026 23:04:35 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "data_original": "Tue, 17 Nov 2026 18:04:16 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "data_original": "Tue, 17 Nov 2026 17:20:41 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+      "data_original": "Tue, 17 Nov 2026 16:32:55 +0000",
       "estado": "POR VERIFICAR"
     },
     {

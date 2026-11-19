@@ -1,7 +1,14 @@
 {
-  "recolhido_em_utc": "2026-11-18T09:16:28.942524+00:00",
+  "recolhido_em_utc": "2026-11-19T09:19:02.152793+00:00",
   "nota": "Títulos e vídeos são pistas para revisão humana, não provas de lançamento. Nunca publicar sem confirmar a fonte oficial.",
   "sugestoes": [
+    {
+      "titulo_original": "O SMARTPHONE QUE JUNTOU O MELHOR DE TODOS! 🤯 Xiaomi 18 Pro Max",
+      "fonte": "Nuno Agonia (YouTube)",
+      "url": "https://www.youtube.com/watch?v=gxnKv0SF3Uo",
+      "data_original": "2026-11-18T18:34:24+00:00",
+      "estado": "POR VERIFICAR"
+    },
     {
       "titulo_original": "O PC mais INSANO que já montei custa 25.000€!",
       "fonte": "Nuno Agonia (YouTube)",
@@ -45,10 +52,31 @@
       "estado": "POR VERIFICAR"
     },
     {
-      "titulo_original": "O UNBOXING MAIS DIFÍCIL QUE JÁ FIZ!",
-      "fonte": "Nuno Agonia (YouTube)",
-      "url": "https://www.youtube.com/watch?v=u2c4jMmV27A",
-      "data_original": "2026-09-02T13:26:14+00:00",
+      "titulo_original": "Waymo pauses service in San Francisco after robotaxis get stuck on flooded streets",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2321312/waymo-pauses-service-in-san-francisco-after-robotaxis-get-stuck-on-flooded-streets/",
+      "data_original": "Wed, 18 Nov 2026 23:23:57 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Xreal Aura review: Solid AR glasses hampered by Google's half-baked Android XR",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2320945/xreal-aura-review/",
+      "data_original": "Wed, 18 Nov 2026 19:30:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "GTA 6 launch day: Live updates on the biggest game of the year",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2320788/gta-vi-launch-day-live-blog/",
+      "data_original": "Wed, 18 Nov 2026 18:00:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "AI found a hole in Java, and it starts with 'AAAAAAAA...'",
+      "fonte": "Engadget",
+      "url": "https://www.engadget.com/2320797/ai-found-a-hole-in-java-and-it-starts-with-aaaaaaaa/",
+      "data_original": "Wed, 18 Nov 2026 17:59:47 +0000",
       "estado": "POR VERIFICAR"
     },
     {
@@ -63,6 +91,90 @@
       "fonte": "Engadget",
       "url": "https://www.engadget.com/2320041/oregon-is-the-latest-state-to-sue-openai-over-child-safety/",
       "data_original": "Tue, 17 Nov 2026 23:45:32 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Trump’s latest land grab is an AI hub in the Philippines",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "data_original": "2026-11-18T14:40:36-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
+      "data_original": "2026-11-18T14:30:00-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "The leaked Lenovo Legion Go Beam could be the affordable handheld we need",
+      "fonte": "The Verge",
+      "url": "https://www.theverge.com/games/1036819/the-leaked-lenovo-legion-go-beam-could-be-the-affordable-handheld-we-need",
+      "data_original": "2026-11-18T14:11:50-05:00",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "data_original": "Wed, 18 Nov 2026 23:45:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "data_original": "Wed, 18 Nov 2026 22:58:11 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "data_original": "Wed, 18 Nov 2026 21:34:13 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "data_original": "Wed, 18 Nov 2026 19:56:39 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Google’s AI feature in Search gets its own incognito mode",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "data_original": "Wed, 18 Nov 2026 18:04:05 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "data_original": "Wed, 18 Nov 2026 17:32:10 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "data_original": "Wed, 18 Nov 2026 16:59:00 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "fonte": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "data_original": "Wed, 18 Nov 2026 16:14:09 +0000",
+      "estado": "POR VERIFICAR"
+    },
+    {
+      "titulo_original": "O UNBOXING MAIS DIFÍCIL QUE JÁ FIZ!",
+      "fonte": "Nuno Agonia (YouTube)",
+      "url": "https://www.youtube.com/watch?v=u2c4jMmV27A",
+      "data_original": "2026-09-02T13:26:14+00:00",
       "estado": "POR VERIFICAR"
     },
     {
